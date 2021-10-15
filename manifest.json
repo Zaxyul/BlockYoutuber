@@ -1,0 +1,10 @@
+{
+    "name": "Youtuber Blocker",
+    "description": "Seamlessly and simply hides YouTubers from sight that you are tired of seeing recommended/trending as if they never existed.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": ["storage"]
+  }
